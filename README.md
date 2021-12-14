@@ -6,4 +6,4 @@
 
 เอาไปเลย : [Link](https://drive.google.com/file/d/1-7TCgNXu0wHwMM4VGlCdXhaOg91DE5to/view?usp=sharing)
 
-หมายเหตุ - สงสัยอะไรดูที่ [issues](issues)
+หมายเหตุ - สงสัยอะไรดูที่ [issues](https://github.com/GoRyuuO/SecretKey/issues)
