@@ -4,6 +4,6 @@
 
 ในนี้ "ไม่มีอะไร" เว้นแต่ลิงก์ไปที่รูปหรอกนะ
 
-เอาไปเลย : [Link](https://drive.google.com/file/d/1-7TCgNXu0wHwMM4VGlCdXhaOg91DE5to/view?usp=sharing)
+เอาไปเลย : [Link](https://bit.ly/3DUxWFj)
 
 หมายเหตุ - สงสัยอะไรดูที่ [issues](https://github.com/GoRyuuO/SecretKey/issues)
